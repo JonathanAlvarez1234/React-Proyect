@@ -15,7 +15,7 @@ export const useGif = () => {
 
     }
  
-    //retorno del hook
+    //RETORNO del hook
     return{
         handleGetGif,
         arregloGifs 
